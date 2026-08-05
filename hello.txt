@@ -2,7 +2,7 @@ hello master
 hello master
 hello master
 hello master
-hello master
+hello master hotfix
 hello hot-fix
 hello hot-fix
 hello hot-fix
